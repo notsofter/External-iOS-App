@@ -1,0 +1,8 @@
+Package: gh.notsofter
+Name: nsftr
+Version: 1.0
+Section: Applications
+Architecture: iphoneos-arm
+Author: ns
+Maintainer: ns
+Description: external app by nsftr

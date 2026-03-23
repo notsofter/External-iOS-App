@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>nsftr</string>
+	<key>CFBundleExecutable</key>
+	<string>nsftr</string>
+	<key>CFBundleIconFile</key>
+	<string>icon.png</string>
+	<key>CFBundleIdentifier</key>
+	<string>gh.notsofter</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>nsftr</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>gh.notsofter</string>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>2.5</string>
+	<key>UIApplicationShowsViewsWhileLocked</key>
+	<false/>
+	<key>UIApplicationSystemWindowsSecureKey</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+</dict>
+</plist>
